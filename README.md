@@ -1,1 +1,2 @@
 Cassandra Kramer
+kramecas@oregonstate.edu
